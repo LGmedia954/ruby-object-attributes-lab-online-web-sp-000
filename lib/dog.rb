@@ -8,7 +8,8 @@ class Dog
     @name
   end
   
-def 
+def name=(new_name)
+  
   
 end
 
